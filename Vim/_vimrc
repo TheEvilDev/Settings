@@ -1,0 +1,10 @@
+" Ignore case when searching
+set ignorecase
+
+" Will use case sensitive search if capital letters are used
+set smartcase
+
+nnoremap ' `
+nnoremap ` '
+
+set history=1000
